@@ -11,7 +11,9 @@ nuevos ejemplares, modificarlos, listarlos todos y listarlos permitiendo elegir
 el tipo de medio (Libros o Revistas).
 
 ¿Que relación tiene Editorial con los tipos de medios?
+
 (ayuda)
+
 El ejercicio anterior plantea una relación de Agregación puesto que la
 Editorial puede seguir existiendo al margen del Libro o Revista, es más
 es una relación compartida puesto que varios libros pueden tener la
